@@ -1,0 +1,22 @@
+{
+    "1":{
+        "question": "mcq",
+        "options": {
+            "A": "option1",
+            "B": "option2",
+            "C": "option3",
+            "D": "option4"
+        },
+        "correct_answer": "correct_answer"
+    },
+    "2":{
+        "question": "mcq",
+        "options": {
+            "A": "option1",
+            "B": "option2",
+            "C": "option3",
+            "D": "option4"
+        },
+        "correct_answer": "correct_answer"
+    }
+}

@@ -1,0 +1,4 @@
+[2025-12-26 14:30:45,071] INFO - AFC is enabled with max remote calls: 10.
+[2025-12-26 14:30:53,476] INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+[2025-12-26 14:30:53,482] INFO - AFC is enabled with max remote calls: 10.
+[2025-12-26 14:31:03,445] INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
